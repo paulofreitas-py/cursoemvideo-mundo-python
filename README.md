@@ -5,7 +5,7 @@
   </a>
 </h1>
   
-Repositório dedicado a soluções de todos os desafios propostos no curso de Python 3 no canal **Curso Em Vídeo**.
+Repositório dedicado a soluções de todos os desafios propostos no curso de Python 3 no canal **Curso Em Vídeo**!
 
 ## Mundos
 - [*Mundo 1*](#) - *Fundamentos - ( 35 Desafios )*
